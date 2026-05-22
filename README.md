@@ -4,14 +4,6 @@ A free, open-source calculator for Nepal's **Social Security Fund (SSF)** that s
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DhakalAadesh07/ssf-calculator-nepal/blob/main/ssf_calculator.ipynb)
 
----
-
-## ▶️ Run it instantly
-
-**Steps inside Colab:**
-1. Click **Runtime → Run all** from the top menu, OR
-2. Run Cell 2 first (loads the calculator), then Cell 4 (enter your details)
-3. Edit the 4 values in Cell 4 to match your situation and press **Shift + Enter**
 
 ---
 
