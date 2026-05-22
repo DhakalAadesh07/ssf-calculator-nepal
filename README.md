@@ -2,7 +2,7 @@
 
 A free, open-source calculator for Nepal's **Social Security Fund (SSF)** that shows how much pension you will receive at retirement — based on your salary, age, and expected salary growth.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DhakalAadesh07/ssf-nepal-calculator/blob/main/ssf_calculator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DhakalAadesh07/ssf-calculator-nepal/blob/main/ssf_calculator.ipynb)
 
 ---
 
