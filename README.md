@@ -2,15 +2,11 @@
 
 A free, open-source calculator for Nepal's **Social Security Fund (SSF)** that shows how much pension you will receive at retirement — based on your salary, age, and expected salary growth.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ssf-nepal-calculator/blob/main/ssf_calculator.ipynb)
-
-> ⚠️ **Before sharing:** Replace `YOUR_USERNAME` in the badge link above with your actual GitHub username.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DhakalAadesh07/ssf-nepal-calculator/blob/main/ssf_calculator.ipynb)
 
 ---
 
-## ▶️ Run it instantly — no installation needed
-
-Click the **Open in Colab** badge above. It opens in your browser and runs in Google's free cloud — no Python, no setup required.
+## ▶️ Run it instantly
 
 **Steps inside Colab:**
 1. Click **Runtime → Run all** from the top menu, OR
@@ -47,7 +43,7 @@ Click the **Open in Colab** badge above. It opens in your browser and runs in Go
 ## 🖥️ Run locally (developers)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ssf-nepal-calculator.git
+git clone https://github.com/DhakalAadesh07/ssf-nepal-calculator.git
 cd ssf-nepal-calculator
 python3 ssf_calculator.py
 ```
